@@ -1,6 +1,8 @@
 ## Hi there 👋
 ## I am Wani Rathaur
-
+<p align="center">
+  <img width="120" src="https://raw.githubusercontent.com/wani0502/assets/main/cat.gif">
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wani0502&show_icons=true&theme=tokyonight)
 
