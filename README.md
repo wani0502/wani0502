@@ -1,8 +1,20 @@
 ## Hi there 👋
 ## I am Wani Rathaur
-<p align="center">
-  <img width="120" src="https://raw.githubusercontent.com/wani0502/assets/main/cat.gif">
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/wani0502/assets/main/cat.gif" width="300">
+</td>
+
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=wani0502&show_icons=true&theme=tokyonight">
+</td>
+</tr>
+</table>
+
+</div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wani0502&show_icons=true&theme=tokyonight)
 
