@@ -44,7 +44,11 @@
 </p>
 
 
+<h2 align="center">🐍 Contributions</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wani0502/wani0502/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 <h2 align="center">🛠 Tech Stack</h2>
