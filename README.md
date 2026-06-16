@@ -44,6 +44,27 @@ if you want a normal graph
 </p>
 
 
+
+
+
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/wani0502/mini-search-engine">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=mini-search-engine&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/AI-PROJECT-4TH-SEM/no-code-ai-ui-tool">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=AI-PROJECT-4TH-SEM&repo=no-code-ai-ui-tool&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/wani0502/NearHelp">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=NearHelp&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
@@ -72,27 +93,6 @@ if you want a normal graph
 
 
 
-
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/wani0502/mini-search-engine">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=mini-search-engine&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/AI-PROJECT-4TH-SEM/no-code-ai-ui-tool">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=AI-PROJECT-4TH-SEM&repo=no-code-ai-ui-tool&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/wani0502/NearHelp">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=NearHelp&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-
 <h2 align="center">📫 Connect With Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/wani-rathaur-096a54343/">
@@ -105,6 +105,7 @@ if you want a normal graph
 </p>
 
 <div align="center">
+
 
 <table>
 <tr>
