@@ -73,7 +73,6 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-<h2 align="center">📫 Connect With Me</h2>
 
 
 
@@ -97,6 +96,7 @@
 </p>
 
 
+<h2 align="center">📫 Connect With Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/wani-rathaur-096a54343/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
