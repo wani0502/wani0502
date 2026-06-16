@@ -16,7 +16,9 @@
 </table>
 
 </div>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wani0502&theme=tokyonight">
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wani0502&show_icons=true&bg_color=1a1b26&title_color=ff79c6&text_color=C9D1D9&icon_color=ff79c6&border_color=30363D" />
@@ -50,6 +52,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/wani-rathaur-096a54343/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:wanirathaur24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 
