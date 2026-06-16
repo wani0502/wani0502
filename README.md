@@ -17,6 +17,12 @@
 
 </div>
 
+## 👨‍💻 About Me
+
+- 🎓 CSE @ NIT Jamshedpur (2024-2028)
+- 🌱 Exploring AI/ML and Full-Stack Development
+- 🚀 Building projects that solve real-world problems
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wani0502&show_icons=true&bg_color=1a1b26&title_color=ff79c6&text_color=C9D1D9&icon_color=ff79c6&border_color=30363D" />
