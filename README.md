@@ -68,7 +68,9 @@
   </a>
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wani0502&label=Visitors&color=ff79c6&style=for-the-badge" />
+</p>
 
 
 <!--
