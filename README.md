@@ -77,17 +77,17 @@
 
 <p align="center">
   <a href="https://github.com/wani0502/mini-search-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=mini-search-engine&theme=tokyonight&hide_border=true" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=mini-search-engine&theme=tokyonight&hide_border=true" />
   </a>
 
   <a href="https://github.com/AI-PROJECT-4TH-SEM/no-code-ai-ui-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AI-PROJECT-4TH-SEM&repo=no-code-ai-ui-tool&theme=tokyonight&hide_border=true" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=AI-PROJECT-4TH-SEM&repo=no-code-ai-ui-tool&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/wani0502/NearHelp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=NearHelp&theme=tokyonight&hide_border=true" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=NearHelp&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
