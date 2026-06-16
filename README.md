@@ -73,6 +73,24 @@
 </p>
 
 
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <a href="[YOUR_SEARCH_ENGINE_REPO](https://github.com/wani0502/mini-search-engine)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=SEARCH_ENGINE_REPO&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="[YOUR_AI_UI_REPO](https://github.com/wani0502/)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=AI_UI_REPO&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="YOUR_NEARHELP_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=NEARHELP_REPO&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
 <!--
 **wani0502/wani0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
