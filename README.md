@@ -17,7 +17,11 @@
 
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wani0502&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wani0502&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F0883E&border_color=30363D" />
+</p>
+
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wani0502&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
 
