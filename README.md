@@ -76,18 +76,18 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <a href="[YOUR_SEARCH_ENGINE_REPO](https://github.com/wani0502/mini-search-engine)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=SEARCH_ENGINE_REPO&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/wani0502/mini-search-engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=mini-search-engine&theme=tokyonight&hide_border=true" />
   </a>
 
-  <a href="[YOUR_AI_UI_REPO](https://github.com/wani0502/)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=AI_UI_REPO&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/AI-PROJECT-4TH-SEM/no-code-ai-ui-tool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AI-PROJECT-4TH-SEM&repo=no-code-ai-ui-tool&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="YOUR_NEARHELP_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=NEARHELP_REPO&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/wani0502/NearHelp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=NearHelp&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
