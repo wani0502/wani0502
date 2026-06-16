@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-<h3 align="center">I'm Wani</h3>
+<h1 align="center">I'm Wani Rathaur</h3>
 
 
 <div align="center">
