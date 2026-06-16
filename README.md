@@ -1,5 +1,5 @@
-## Hi there 👋
-## I am Wani Rathaur
+##                                                       Hi there 👋
+##                                                     I am Wani Rathaur
 <div align="center">
 
 <table>
