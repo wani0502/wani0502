@@ -17,11 +17,22 @@
 
 </div>
 
-## 👨‍💻 About Me
 
-- 🎓 CSE @ NIT Jamshedpur (2024-2028)
-- 🌱 Exploring AI/ML and Full-Stack Development
-- 🚀 Building projects that solve real-world problems
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wani0502&label=Visitors&color=ff79c6&style=for-the-badge" />
+</p>
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+
+🎓 **CSE @ NIT Jamshedpur (2024–2028)**
+
+🌱 **Exploring AI/ML and Full-Stack Development**
+
+🚀 **Building projects that solve real-world problems**
+
+</div>
 
 
 <p align="center">
@@ -64,19 +75,7 @@
 
 <h2 align="center">📫 Connect With Me</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/wani-rathaur-096a54343/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
-  <a href="mailto:wanirathaur24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wani0502&label=Visitors&color=ff79c6&style=for-the-badge" />
-</p>
 
 
 <h2 align="center">🚀 Featured Projects</h2>
@@ -96,6 +95,18 @@
     <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=NearHelp&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/wani-rathaur-096a54343/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:wanirathaur24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 <!--
 **wani0502/wani0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
