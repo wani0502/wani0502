@@ -39,9 +39,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wani0502&show_icons=true&bg_color=1a1b26&title_color=ff79c6&text_color=C9D1D9&icon_color=ff79c6&border_color=30363D" />
 </p>
 
+
+
+<!--
+if you want a normal graph
 <p align="center">
   <img width="650" src="https://github-readme-activity-graph.vercel.app/graph?username=wani0502&bg_color=1a1b26&color=ff79c6&line=ff79c6&point=ffffff&area=false&hide_border=true">
 </p>
+-->
 
 
 <h2 align="center">🐍 Contributions</h2>
