@@ -1,26 +1,12 @@
-<h1 align="center">Hi there 👋</h1>
+<!-- <h1 align="center">Hi there 👋</h1> -->
 
-<h1 align="center">I'm Wani Rathaur</h3>
-
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img src="https://raw.githubusercontent.com/wani0502/assets/main/cat.gif" width="300">
-</td>
+<h1 align="center">Hey, I'm Wani Rathaur</h3>
 
 
-</tr>
-</table>
-
-</div>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wani0502&label=Visitors&color=ff79c6&style=for-the-badge" />
-</p>
+
+
 
 <h2 align="center">👨‍💻 About Me</h2>
 
@@ -33,7 +19,9 @@
 🚀 **Building projects that solve real-world problems**
 
 </div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wani0502&label=Visitors&color=ff79c6&style=for-the-badge" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wani0502&show_icons=true&bg_color=1a1b26&title_color=ff79c6&text_color=C9D1D9&icon_color=ff79c6&border_color=30363D" />
@@ -116,7 +104,19 @@ if you want a normal graph
   </a>
 </p>
 
+<div align="center">
 
+<table>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/wani0502/assets/main/cat.gif" width="300">
+</td>
+
+
+</tr>
+</table>
+
+</div>
 <!--
 **wani0502/wani0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
