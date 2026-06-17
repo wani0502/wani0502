@@ -63,7 +63,7 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=mini
 
 <p align="center">
   <a href="https://github.com/wani0502/NearHelp">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=NearHelp&theme=tokyonight&hide_border=true&v=2" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=NearHelp&theme=tokyonight&hide_border=true&v=3" />
   </a>
 </p>
 <h2 align="center">🛠 Tech Stack</h2>
