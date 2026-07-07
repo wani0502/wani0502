@@ -23,9 +23,9 @@
   <img src="https://komarev.com/ghpvc/?username=wani0502&label=Visitors&color=ff79c6&style=for-the-badge" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wani0502&show_icons=true&bg_color=1a1b26&title_color=ff79c6&text_color=C9D1D9&icon_color=ff79c6&border_color=30363D&cache_seconds=1&v=2" />
-</p>
+</p> -->
 
 
 
