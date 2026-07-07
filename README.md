@@ -66,7 +66,7 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=mini
   <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=NearHelp&theme=tokyonight&hide_border=true&v=3" />
   </a>
 </p> -->
-<!-- <h2 align="center">🛠 Tech Stack</h2> -->
+ <h2 align="center">🛠 Tech Stack</h2> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
