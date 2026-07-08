@@ -31,6 +31,14 @@
 </p>
 
 <!-- <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wani0502&theme=github_dark" width="100%" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wani0502&theme=github_dark" width="45%" />
+</p>
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wani0502&show_icons=true&bg_color=1a1b26&title_color=ff79c6&text_color=C9D1D9&icon_color=ff79c6&border_color=30363D&cache_seconds=1&v=2" />
 </p> -->
 
