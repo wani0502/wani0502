@@ -7,16 +7,23 @@
 
 
 
-
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
 
-🎓 **CSE @ NIT Jamshedpur (2024–2028)**
+🎓 **B.Tech in Computer Science & Engineering @ NIT Jamshedpur (2024–2028)**
 
-🌱 **Exploring AI/ML and Full-Stack Development**
+💻 **Full-Stack Developer** passionate about building scalable web applications
 
-🚀 **Building projects that solve real-world problems**
+🤖 **Exploring AI & Machine Learning** with hands-on projects and research
+
+🧩 **Solved 200+ DSA problems on LeetCode** while strengthening problem-solving skills
+
+🚀 **Building impactful, real-world projects** with modern technologies
+
+📚 **Continuously learning, experimenting, and improving every day**
+
+</div>
 
 </div>
 <p align="center">
