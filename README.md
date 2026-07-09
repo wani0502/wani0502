@@ -1,13 +1,13 @@
 <!-- <h1 align="center">Hi there 👋</h1> -->
 
-<h1 align="center">Hey, I'm Wani Rathaur</h3>
+<h2 align="center">Hey, I'm Wani Rathaur</h2>
 
 
 
 
 
 
-<h2 align="center">About Me</h2>
+<h3 align="center">About Me</h3>
 
 <div align="center">
 
@@ -52,11 +52,11 @@ if you want a normal graph
 -->
 
 
-<h2 align="center">🐍 Contributions</h2>
+<!-- <h2 align="center">🐍 Contributions</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/wani0502/wani0502/output/github-contribution-grid-snake.svg" />
-</p>
+</p> -->
 
 
 
