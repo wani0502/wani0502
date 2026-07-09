@@ -17,7 +17,7 @@
 
 🤖 **Exploring AI & Machine Learning**
 
-🧩 **Solved 300+ DSA problems on LeetCode**
+<!--🧩 **Solved 300+ DSA problems on LeetCode**-->
 
 🚀 **Building impactful, real-world projects** 
 
