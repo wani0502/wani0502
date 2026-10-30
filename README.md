@@ -3,15 +3,13 @@
 
 <h2 align="center">Hey, I'm Wani Rathaur</h2>
 
-<h3 align="center">About Me</h3>
+<!-- <h3 align="center">About Me</h3> -->
 
 <div align="center">
 
 🎓 **B.Tech in Computer Science & Engineering @ NIT Jamshedpur (2024–2028)**
 
-💻 **Full-Stack Developer** 
-
-🤖 **Exploring AI & Machine Learning**
+💻 **Full-Stack Developer | AI & ML ** 
 
 <!--🧩 **Solved 300+ DSA problems on LeetCode**-->
 
