@@ -9,7 +9,7 @@
 
 🎓 **B.Tech in Computer Science & Engineering @ NIT Jamshedpur (2024–2028)**
 
-💻 **Full-Stack Developer | AI & ML ** 
+💻 **Full-Stack Developer | AI & ML** 
 
 <!--🧩 **Solved 300+ DSA problems on LeetCode**-->
 
